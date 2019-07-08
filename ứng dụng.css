@@ -1,0 +1,29 @@
+#khungAdd{
+    background-color: #eae5e5;
+    width: 500px;
+    height: 100px;
+}
+#inputAdd{
+    height: 40px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 28px;
+    padding-left: 20px;
+}
+#buttonAdd{
+    width: 70px;
+    height: 45px;
+    background-color: #70d374;
+    border-radius: 6px;
+}
+#productName{
+    font-size: 25px;
+}
+#product{
+    color: red;
+    margin-left: 500px;
+}
+button{
+    background-color: #70d374;
+    width: 100px ;
+}
